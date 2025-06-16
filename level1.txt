@@ -1,0 +1,150 @@
+What is sin(30°)?
+1/2
+√3/2
+1
+√2/2
+0
+What is cos(60°)?
+√3/2
+1/2
+√2/2
+1
+1
+What is tan(45°)?
+0
+1
+√3
+√3/3
+1
+What is sin(90°)?
+0
+1/2
+1
+Undefined
+2
+What is cos(0°)?
+1
+0
+1/2
+Undefined
+0
+What is the value of tan(0°)?
+1
+0
+Undefined
+∞
+1
+What is sin(0°)?
+0
+1
+√2/2
+Undefined
+0
+What is the opposite side in a right triangle with angle θ and adjacent side 3, hypotenuse 5?
+2
+4
+√6
+4.5
+1
+What is the hypotenuse of a right triangle with legs 3 and 4?
+6
+5
+7
+4.5
+1
+What is the value of sin(45°)?
+√2/2
+√3/2
+1/2
+1
+0
+What is the cosine of an angle if the adjacent side is 5 and the hypotenuse is 13?
+5/13
+12/13
+13/5
+5/12
+0
+Which of these equals tan(30°)?
+√3
+1/√3
+1
+0
+1
+What is the exact value of cos(90°)?
+1
+0
+Undefined
+-1
+1
+What is the ratio for sin(θ)?
+Opposite / Hypotenuse
+Adjacent / Hypotenuse
+Hypotenuse / Adjacent
+Opposite / Adjacent
+0
+What is tan(θ) in a right triangle?
+Opposite / Adjacent
+Adjacent / Hypotenuse
+Hypotenuse / Opposite
+Adjacent / Opposite
+0
+What is sin(60°)?
+1/2
+√2/2
+√3/2
+0
+2
+What is cos(45°)?
+√2/2
+√3/2
+1
+1/2
+0
+What is the tan of an angle with opposite 4 and adjacent 3?
+4/3
+3/4
+5/4
+5/3
+0
+In which quadrant is sin(θ) positive and cos(θ) negative?
+I
+II
+III
+IV
+1
+What is the reference angle for 150°?
+30°
+60°
+45°
+40°
+0
+Which function is undefined at 90°?
+sin
+cos
+tan
+sec
+3
+What is the Pythagorean identity?
+sin²θ + cos²θ = 1
+sin²θ - cos²θ = 1
+tan²θ + 1 = sin²θ
+sinθ + cosθ = 1
+0
+What is the cotangent of 45°?
+1
+0
+Undefined
+√3
+0
+What is sec(0°)?
+1
+0
+Undefined
+√2
+0
+If sin(θ) = 3/5, what is the length of the hypotenuse if the opposite side is 3?
+4
+6
+5
+9
+2
